@@ -2,7 +2,7 @@
 	"person":{
 		"name":"Zharas",
 		"age":33,
-		"homepets":null
+		"homepets":null,
 		"salary":600-800
 	}
 }
