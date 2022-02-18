@@ -1,2 +1,2 @@
 # JSON
-Homework_Git_group_27
+Homework_Git_JSON
